@@ -1,5 +1,43 @@
 #conteudo{
 	width: 710px;
 	float: left;
-	background: green;
+	margin-bottom: 20px;
+	
+}
+
+section h3{
+	color: #227115;
+	font-size: 1.0em;
+	margin-bottom: 15px;
+	text-transform: uppercase;
+}
+
+article#video{
+	float: left;
+	width: 310px;
+	
+	margin-left: 25px;
+	padding-bottom: 10px;
+}
+
+article#mapa{
+	float: left;
+	width: 310px;
+	
+	margin-left: 37px;
+	padding-bottom: 10px;
+}
+
+article#exposições{
+	float: left;
+	width: 310px;
+	margin: 15px 0 0 25px;
+	
+}
+
+article#historia{
+	float: left;
+	width: 310px;
+	margin: 15px 0 0 37px;
+	
 }
