@@ -14,6 +14,10 @@
 	background: url(../imagens/logo.png) no-repeat;
 }
 
+#logo h1{
+	float: left;
+}
+
 header{
 	padding: 15px 0px;
 	height: 55px;

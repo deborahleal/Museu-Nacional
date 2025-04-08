@@ -1,0 +1,74 @@
+aside{
+	width:350px;
+	float: right;
+	background: #ebe7dd;
+	padding-bottom: 35px;
+}
+
+section#visita{
+	background: #cdc8b1;
+	padding: 10px 27px 27px 27px;
+	margin-top: 10px;
+}
+
+#visita h4{
+	color: #86521a;
+	text-transform: uppercase;
+	padding-bottom: 3px;
+	margin-bottom: 0px;
+}
+
+input{
+	height: 20px;
+	background: #fff;
+	border: none;
+	font-size: 1em;
+	width: 80%;
+}
+
+input.campo{
+	border: 1px solid #cdc8b1;
+}
+input.botao{
+	background: #9b9271;
+	color: #fff;
+	width: 100%px;
+	height:30px;
+	font-size: 1em;
+	margin-top: 5px;
+}
+
+fieldset{
+	border: none;
+
+}
+legend{
+	display: none;
+}
+
+
+section#fotos a {
+	display: block;
+	background: url(../../imagens/fundo-foto.png) no-repeat;
+	float: left;
+	padding: 16px 15px 18px 15px;
+	margin: 10px 0 0 20px;
+
+
+}
+
+section#fotos img{
+	margin-left: 2px;
+	margin-top: 2px;
+}
+
+section#fotos h4{
+	color: #86521a;
+	text-transform: uppercase;
+	padding-bottom: 3px;
+	margin-bottom: 0px;
+}
+
+section#fotos{
+	padding: 0px 27px 0px 27px;
+}
